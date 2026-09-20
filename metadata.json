@@ -1,0 +1,6 @@
+{
+  "name": "iPhone 17 Pro Experience",
+  "description": "Interactive showcase and store for the iPhone 17 and iPhone 17 Pro with detailed design, camera, performance, and purchase configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
